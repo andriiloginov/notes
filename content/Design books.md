@@ -56,4 +56,7 @@ Some books about designing or related to designing.
 - **By Design: Why There Are No Locks on the Bathroom Doors in the Hotel Louis XIV and Other Object Lessons** (Ralph Caplan) 
   [Goodreads](https://www.goodreads.com/book/show/890684.By_Design?ac=1&from_search=true&qid=SKaS9Bz28z&rank=1)
 - **Paradox of Choice** (Barry Schwartz)
-  [Wiki](https://en.wikipedia.org/wiki/The_Paradox_of_Choice), [Ted]
+  [Wiki](https://en.wikipedia.org/wiki/The_Paradox_of_Choice), [Ted](https://www.ted.com/embed/barry_schwartz_the_paradox_of_choice)
+
+# Related
+[[AI tools for designers]], [[Design books]], [[Color tools]], [[Design courses]]

@@ -37,3 +37,6 @@ There are loads of cool tools for designers on the web, and we all have our go-t
 ## Gradients
 - [CSS Hero](https://www.csshero.org/mesher/) — Mesh gradient generator with CSS.
 - [Mesh Gradient](https://meshgradient.in/) — Mesh gradients based on palettes.
+
+# Related
+[[AI tools for designers]], [[Design books]], [[Design books]]

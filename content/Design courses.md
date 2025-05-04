@@ -41,3 +41,6 @@ No profession can be mastered in a few months. It's better to make learning a ha
 ## Additional Skills
 18. Human-Computer Interaction II: Cognition, Context & Culture, [EdEx](https://www.edx.org/learn/human-computer-interaction/the-georgia-institute-of-technology-human-computer-interaction-ii-cognition-context-culture)
 19. TechBridge: English for IT 1, [Notecad](https://www.netacad.com/courses/english-for-it1?courseLang=en-US&instance_id=5573e530-8365-4685-baa7-ce1505ed1d2e)
+
+# Related
+[[AI tools for designers]], [[Design books]], [[Color tools]]
