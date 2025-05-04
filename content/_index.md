@@ -3,7 +3,7 @@ title: Index
 ---
 # Greetings, traveler 🗿
 
-In this garden, I collect all kinds of gems. Some of them are useful, and some of them aren't. If someone else finds it useful, well, yay!
+If someone else finds this gems useful, well, yay!
 ## Categories
 
 ### 🎨 Design
