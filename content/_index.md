@@ -1,5 +1,5 @@
 ---
-title: Beep Boop
+title: Index
 ---
 # Greetings, traveler 🗿
 
