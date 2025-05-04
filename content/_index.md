@@ -3,7 +3,7 @@ title: Index
 ---
 # Greetings, traveler 🗿
 
-If someone else finds this gems useful, well, yay!
+If you found these gems useful, well… yay for us both!
 ## Categories
 
 ### 🎨 Design
