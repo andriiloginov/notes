@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https:///beepboop/</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Beep Boop</title>
+    <link>https:///beepboop/</link>
+    <guid>https:///beepboop/</guid>
+    <description>Greetings, traveler 🗿 In this garden, I collect all kinds of gems. Some of them are useful, and some of them aren’t.</description>
+    <pubDate>Sun, 04 May 2025 16:03:28 GMT</pubDate>
+  </item><item>
+    <title>AI tools for designers</title>
+    <link>https:///beepboop/AI-tools-for-designers</link>
+    <guid>https:///beepboop/AI-tools-for-designers</guid>
+    <description>AI will not replace designers; designers will be replaced by those who use AI.</description>
+    <pubDate>Sun, 04 May 2025 15:43:35 GMT</pubDate>
+  </item><item>
+    <title>Color tools</title>
+    <link>https:///beepboop/Color-tools</link>
+    <guid>https:///beepboop/Color-tools</guid>
+    <description>There are loads of cool tools for designers on the web, and we all have our go-to tools for working with color. Here are my favs.</description>
+    <pubDate>Sun, 04 May 2025 15:43:35 GMT</pubDate>
+  </item><item>
+    <title>Design books</title>
+    <link>https:///beepboop/Design-books</link>
+    <guid>https:///beepboop/Design-books</guid>
+    <description>Some books about designing or related to designing.</description>
+    <pubDate>Sun, 04 May 2025 15:43:35 GMT</pubDate>
+  </item><item>
+    <title>Design courses</title>
+    <link>https:///beepboop/Design-courses</link>
+    <guid>https:///beepboop/Design-courses</guid>
+    <description>No profession can be mastered in a few months. It’s better to make learning a habit.</description>
+    <pubDate>Sun, 04 May 2025 15:43:35 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
