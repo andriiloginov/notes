@@ -28,7 +28,8 @@ In this garden, I collect all kinds of gems. Some of them are useful, and some o
 - [[Design courses]]
 
 ## About Me
-<img src="../andrii.jpg" alt="Andrii Loginov" width="200" style="border-radius: 16px; margin-bottom: 1em;" />
+<!-- Зображення тимчасово вимкнено -->
+<!-- <img src="andrii.jpg" alt="Andrii Loginov" width="200" style="border-radius: 16px; margin-bottom: 1em;" /> -->
 
 Hello, my name is Andrii. 🖖 I'm a designer from Kyiv, Ukraine.
 
