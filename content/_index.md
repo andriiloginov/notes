@@ -1,5 +1,5 @@
 ---
-title: Andrii Loginov's Blog
+title: Andrii Loginov Blog
 ---
 # Greetings, traveler 🗿
 
