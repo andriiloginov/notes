@@ -1,5 +1,5 @@
 ---
-title: Index
+title: Andrii Loginov's blog
 ---
 # Greetings, traveler 🗿
 
@@ -21,5 +21,5 @@ Hello, my name is Andrii. 🖖 I'm a designer from Kyiv, Ukraine.
 I'm interested in design, politics, history, art, games, and stuff like that. I love learning new things, TTRPG, Terry Pratchett and sparkling water.
 
 ## Connect
-- GitHub: [andriiloginov](https://github.com/andriiloginov)
-- LinkedIn: [Andrii Loginov](https://www.linkedin.com/in/andriiloginov/) 
+- Portfolio: [github.io/portfolio](https://andriiloginov.github.io/portfolio/)
+- LinkedIn: [linkedin.com/in/andriiloginov](https://www.linkedin.com/in/andriiloginov/) 
