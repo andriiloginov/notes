@@ -9,10 +9,13 @@ If you found these gems useful, well… yay for us both!
 ### 🎨 Design
 - [[AI tools for designers]] - AI-powered design tools
 - [[Color tools]] - Color management and inspiration
+- [[Typography resources]] - Typography collection, tools and tips
 
 ### 📚 Learning
 - [[Design books]] - Must-read design books
 - [[Design courses]] - Learning resources
+
+
 ## About Me
 
 <img src="andrii.jpg" alt="Andrii Loginov" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
