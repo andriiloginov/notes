@@ -12,11 +12,11 @@ categories:
   - Tools
   - Design
 ---
-A curated collection of favorite typography resources, fonts, foundries, and tools.
+A curated collection of my favorite typography resources, fonts, foundries, and tools.
 
 ## 🔤 Typefaces
 
-- [Road UI](https://agentyzmin.github.io/Road-UI-Font/) — a new Ukrainian typeface by Stas Hovorukhin, version of the Road UA traffic font. Highly legible and versatile, now adapted for interfaces. #freebie
+- [Road UI](https://agentyzmin.github.io/Road-UI-Font/) — a new Ukrainian typeface by [Andrii Konstantynov](https://minttype.com/), version of the Road UA traffic font. Highly legible and versatile, now adapted for interfaces. #freebie
 - [Hvntr Free](https://hvnter.net/free-stuff-1) — favorite free Y2K-style fonts. #freebie
 - [Editorial New](https://pangrampangram.com/products/editorial-new) — a serif font from the legendary Pangram Pangram.
 - [Departure Mono](https://www.departuremono.com/) — a contemporary monospaced font with a lo-fi vibe.
