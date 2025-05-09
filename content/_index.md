@@ -1,5 +1,5 @@
 ---
-title: Andrii Loginov Blog
+title: Andrii Loginov Garden
 ---
 # Greetings, traveler 🗿
 
