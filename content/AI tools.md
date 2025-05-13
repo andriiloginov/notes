@@ -1,19 +1,21 @@
 ---
-title: AI tools for designers
+title: AI tools
 date: 2025-05-04
 draft: "false"
 tags:
   - AI
   - Design Tools
+  - Development Tools
   - Productivity
   - UX
   - Research
 categories:
   - Tools
   - Design
+  - Development
 ---
 
-AI will not replace designers; designers will be replaced by those who use AI. Here's a list of tools to help you generate, research, and automate the process.
+AI will not replace designers and developers; they will be replaced by those who use AI. Here's a list of tools to help you generate, research, develop, and automate the process.
 
 ## Research & Ideation
 -  [The AI Toolbox for Innovators](https://ai.boardofinnovation.com/) 
@@ -69,6 +71,20 @@ AI will not replace designers; designers will be replaced by those who use AI. H
 - [Seedream 3.0](https://seed.bytedance.com/en/tech/seedream3_0) 
     Generate images
 
+## Development & Deployment
+- [Vercel](https://vercel.com/) 
+    Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.
+- [Bubble](https://bubble.io/) 
+    The visual control you know and love, now supercharged by AI. Bubble turns ideas into fully scalable apps — fast.
+- [Lovable](https://lovable.dev/) 
+    Idea to app in seconds, with your personal full stack engineer.
+- [Relume.io](https://www.relume.io/) 
+    Websites designed & built with AI. Sitemaps, Wireframes and Styleguides.
+- [Trae](https://www.trae.ai/) 
+    Trae IDE integrates seamlessly into your workflow, collaborating with you to maximize performance and efficiency.
+- [Zencoder](https://zencoder.ai/) 
+    The most integrated, customizable, and intuitive coding agent.
+
 ## Research & Development
 - [H2O Danube](https://h2o.ai/) 
     A super-tiny, open-weights small language model for offline applications
@@ -76,8 +92,14 @@ AI will not replace designers; designers will be replaced by those who use AI. H
     Google's latest experimental tools and technology
 - [Storm](https://storm.genie.stanford.edu/) 
     STORM is a research prototype for automating the knowledge curation process.
+- [LM Studio](https://lmstudio.ai/) 
+    Download and run Llama, DeepSeek, Qwen, Phi on your computer.
+- [Sim Studio](https://www.simstudio.ai/) 
+    Launch agentic workflows with an open source, user-friendly environment for devs and agents.
 
+## Other
+- [Keep It Shot](https://keepitshot.com/) — A Mac app that utilizes AI to automatically provide descriptive names for your files. It also creates an offline, fully private, and extremely fast search index for locating your screenshots using simple keywords.
 
-<hr class="__chatgpt_plugin">
-
+# Related
+[[Design tools]], [[Color and textures]], [[Typography]], [[Design books]]
 

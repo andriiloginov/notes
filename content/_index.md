@@ -7,9 +7,11 @@ If you found these gems useful, well… yay for us both!
 ## Categories
 
 ### 🎨 Design
-- [[AI tools for designers]] - AI-powered design tools
-- [[Color tools]] - Color management and inspiration
-- [[Typography resources]] - Typography collection, tools and tips
+- [[AI tools]] - AI-powered tools for design and development
+- [[Design tools]] - Animation, prototyping, mockups, 3D, and digital painting tools
+- [[Color and textures]] - Color management, textures, and inspiration
+- [[Typography]] - Typefaces, font foundries, and typography tools
+
 
 ### 📚 Learning
 - [[Design books]] - Must-read design books

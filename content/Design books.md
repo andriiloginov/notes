@@ -59,4 +59,4 @@ Some books about designing or related to designing.
   [Wiki](https://en.wikipedia.org/wiki/The_Paradox_of_Choice), [Ted](https://www.ted.com/embed/barry_schwartz_the_paradox_of_choice)
 
 # Related
-[[AI tools for designers]], [[Design books]], [[Color tools]], [[Design courses]]
+[[AI tools]], [[Design tools]], [[Color and textures]], [[Typography]], [[Design courses]]

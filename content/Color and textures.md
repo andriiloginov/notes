@@ -1,9 +1,10 @@
 ---
-title: Color tools
+title: Color and textures
 date: 2025-05-04
 draft: "false"
 tags:
   - Color
+  - Textures
   - Design Tools
   - Inspiration
   - Accessibility
@@ -11,7 +12,7 @@ categories:
   - Tools
   - Design
 ---
-There are loads of cool tools for designers on the web, and we all have our go-to tools for working with color. Here are my favs.
+There are loads of cool tools for designers on the web, and we all have our go-to tools for working with color and textures. Here are my favs.
 
 ## Palette Generators
 - [Coolors](https://coolors.co/) — Create, save, and collect color palettes.
@@ -24,6 +25,9 @@ There are loads of cool tools for designers on the web, and we all have our go-t
 - [Tailwind CSS Color Generator](https://uicolors.app/) — Generate custom color scales.
 - [Material Design](https://m2.material.io/design/color/the-color-system.html#tools-for-picking-colors) — UI color tool from Google.
 - [Color Box](https://colorbox.io/) — Open-source color system.
+- [Photo Gradient](https://photogradient.com/) — Create stunning gradients from photos. Grab colors from images and turn them into mesh gradients.
+- [DIC Color Guide](https://www.dic-global.com/en/contents/scene/diccolorguide/) — 600 colors, an indispensable guide for designers to select and communicate colors.
+- [Freetone](https://culturehustle.com/products/freetone) — Contains 1280 colours including Pinkest Pink, Incredibly Kelinish Blue, Black 3.0 and TIFF.
 
 ## Inspiration & Fun Palettes
 - [Colors LOL](https://colors.lol/) — Palettes with fun, descriptive names.
@@ -38,5 +42,11 @@ There are loads of cool tools for designers on the web, and we all have our go-t
 - [CSS Hero](https://www.csshero.org/mesher/) — Mesh gradient generator with CSS.
 - [Mesh Gradient](https://meshgradient.in/) — Mesh gradients based on palettes.
 
+## Textures
+- [Texture Fabrik](https://texturefabrik.com/) — Textures, Patterns, Graphics 'n' stuff.
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) — Free tileable textures for your next web project.
+- [Lost and Taken](https://lostandtaken.com/) — Free textures for personal and commercial use.
+- [Texture Labs](https://texturelabs.org/) — Free high-resolution textures, brushes, and more.
+
 # Related
-[[AI tools for designers]], [[Design books]], [[Design books]]
+[[AI tools]], [[Design tools]], [[Typography]], [[Design books]]
