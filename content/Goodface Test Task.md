@@ -8,7 +8,7 @@ categories:
 [Оригінальне завдання](https://zany-dresser-e83.notion.site/Product-Designer-1f3e6e4dc4028038a30cc417e317ff86)
 
 Привіт, нижче опишу свій процес.
-# Аналіз ніші
+# Аналіз додатків 
 
 На цьому етапі я би спробував зробити кращий порівняльний аналіз, з релевантними критеріями оцінки, які запитав би у клієнта.
 
@@ -44,6 +44,8 @@ categories:
 | **Fitocracy**       | ❌    | ❌         | ✅            | ❌     | ✅         | iOS, Android, Web | [iOS](https://apps.apple.com/us/app/fitocracy/id509253726), [Android](https://play.google.com/store/apps/details?id=com.fitocracy.android)                                            |
 | **Move It Fitness** | ✅    | ✅         | ✅            | ✅     | ✅         | iOS, Android      | [iOS](https://apps.apple.com/us/app/move-it-fitness/id1234567890), [Android](https://play.google.com/store/apps/details?id=com.moveit.fitness)                                        |
 
+
+
 # Флоу кращих та гірших
 
 Так як не онбордитись я не міг, то зберіг також і ці екрани, але досліджувати лише лайв-сессії, то я обрав би більше додатків на огляд та демонстрував лише потрібні юзерфлоу. 
@@ -53,6 +55,8 @@ categories:
 Наприклад, якщо лайв-сесії важливі відчуття спільноти, то звертав би окремо увагу на цей аспект. Якщо лайв-сесії більше важливі для мотивації, то враховував би це. Власне, напевне тут головне виділити для себе потрібний контекст.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="100%" src="https://embed.figma.com/board/rPYBZC3t48eQxvazXamqB9/Yoga-Live-Class--Andrii-Loginov-x-Goodface-?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+
 # Прототип
 
  «Емпатайз/Діфайн/Ідіейт/Щотамдалі» задача не потребує, як і лоуфай прототипів, але для нагальності я зобразив паттерни, які на мою думку звичні для таких додатків: календар згори, компактні картки вибору івенту, сторінка опису та екран з відтворенням відео.
