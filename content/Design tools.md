@@ -32,6 +32,7 @@ A collection of modern design tools.
 
 ## Mockups
 - [Maneken](https://maneken.app/) — The browser powered mockup editor.
+- [Rotato](https://rotato.app/) — Create stunning 3D device mockups and animations for your app or website designs.
 
 ## Visual Effects
 - [Endless Tools](https://endlesstools.io/) — Meet the all-in-one web tool for quickly crafting striking 3D visuals, animations, and unique effects.
