@@ -1,11 +1,9 @@
 ---
 title: Andrii Loginov x Goodface. Test task
 date: 2025-05-16
-draft: "true"
-tags:
-  - Prototyping
+draft: "false"
+tags: []
 categories:
-  - Design
 ---
 [Оригінальне завдання](https://zany-dresser-e83.notion.site/Product-Designer-1f3e6e4dc4028038a30cc417e317ff86)
 
