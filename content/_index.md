@@ -17,7 +17,7 @@ If you found these gems useful, well… yay for us both!
 - [[Design books]] - Must-read design books
 - [[Design courses]] - Learning resources
 
-### 🇺🇦🇺 Українською
+### 🇺🇦 Українською
 - [[Nedotorkani]] — про кастову систему в Індії та дискримінацію дилітів
 
 
