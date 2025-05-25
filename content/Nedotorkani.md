@@ -16,13 +16,13 @@ categories:
 
 Нижче деякі фільми, книги та статті, що розкривають тему глибше, якщо комусь також стало цікаво.
 
-<img src="/images/karma.png" alt="Rligius man talks about Karma" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
-<img src="/images/toilets.png" alt="Girls talks about toilets" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
+<img src="/public/images/karma.png" alt="Rligius man talks about Karma" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
+<img src="/public/images/toilets.png" alt="Girls talks about toilets" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
 
 ## Посилання
 
-- India Untouched: Stories of a People Apart (2007) — документальна стрічка про життя недоторканих в різних регіонах Індії; [YouTube](https://youtu.be/fvke6ycgkL4?si=mZF1OpbS1QHok12c)
-- Writing with Fire (2021) — про Khabar Lahariya, єдину новинарню, яка складається лише з жінок із пригніченого класу делітів; [Wikipedia](https://en.wikipedia.org/wiki/Writing_with_Fire)
-- Court (2004) — незалежний фільм про судову справу проти поета, якого звинувачують у “підбурюванні до самогубства” робітника-далита; [YouTube](https://youtu.be/CXoQekyviPU?si=-e81wY3pq_oq69vC)
-- Каста. Витоки наших невдоволень — погляд Ізабель Вілкерсон на кастову систему поділу суспільства з різних сторін. Описує маловідому усім кастову систему Америки, Індії та нацистської Німеччини та проводить паралелі між ними. [Видавництво «Лабораторія»](https://laboratory.ua/products/kasta-vytoky-nashyh-nevdovolen) 
-- Кастове питання в поглядах індуської політичної еліти Північної Індії наприкінці ХІХ – на початку ХХ ст.», [academia.edu](https://www.academia.edu/37035477/%D0%A4%D1%96%D0%BB%D1%8C_%D0%AE_%D0%A1_%D0%9A%D0%B0%D1%81%D1%82%D0%BE%D0%B2%D0%B5_%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B2_%D0%BF%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4%D0%B0%D1%85_%D1%96%D0%BD%D0%B4%D1%83%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%97_%D0%B5%D0%BB%D1%96%D1%82%D0%B8_%D0%9F%D1%96%D0%B2%D0%BD%D1%96%D1%87%D0%BD%D0%BE%D1%97_%D0%86%D0%BD%D0%B4%D1%96%D1%97_%D0%BD%D0%B0%D0%BF%D1%80%D0%B8%D0%BA%D1%96%D0%BD%D1%86%D1%96_%D0%A5%D0%86%D0%A5_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%87%D0%B0%D1%82%D0%BA%D1%83_%D0%A5%D0%A5_%D1%81%D1%82_%D0%A1%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%B2%D1%96%D1%82_2018_2_%D0%A1_50_62)
+- India Untouched: Stories of a People Apart (2007) — документальна стрічка про життя недоторканих в різних регіонах Індії, [YouTube](https://youtu.be/fvke6ycgkL4?si=mZF1OpbS1QHok12c);
+- Writing with Fire (2021) — про Khabar Lahariya, єдину новинарню, яка складається лише з жінок із пригніченого класу делітів, [Wikipedia](https://en.wikipedia.org/wiki/Writing_with_Fire);
+- Court (2004) — незалежний фільм про судову справу проти поета, якого звинувачують у “підбурюванні до самогубства” робітника-далита, [YouTube](https://youtu.be/CXoQekyviPU?si=-e81wY3pq_oq69vC);
+- Каста. Витоки наших невдоволень — погляд Ізабель Вілкерсон на кастову систему поділу суспільства з різних сторін. Описує маловідому усім кастову систему Америки, Індії та нацистської Німеччини та проводить паралелі між ними, [Видавництво «Лабораторія»](https://laboratory.ua/products/kasta-vytoky-nashyh-nevdovolen) ;
+- Кастове питання в поглядах індуської політичної еліти Північної Індії наприкінці ХІХ – на початку ХХ ст.», [academia.edu](https://www.academia.edu/37035477/%D0%A4%D1%96%D0%BB%D1%8C_%D0%AE_%D0%A1_%D0%9A%D0%B0%D1%81%D1%82%D0%BE%D0%B2%D0%B5_%D0%BF%D0%B8%D1%82%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B2_%D0%BF%D0%BE%D0%B3%D0%BB%D1%8F%D0%B4%D0%B0%D1%85_%D1%96%D0%BD%D0%B4%D1%83%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%BF%D0%BE%D0%BB%D1%96%D1%82%D0%B8%D1%87%D0%BD%D0%BE%D1%97_%D0%B5%D0%BB%D1%96%D1%82%D0%B8_%D0%9F%D1%96%D0%B2%D0%BD%D1%96%D1%87%D0%BD%D0%BE%D1%97_%D0%86%D0%BD%D0%B4%D1%96%D1%97_%D0%BD%D0%B0%D0%BF%D1%80%D0%B8%D0%BA%D1%96%D0%BD%D1%86%D1%96_%D0%A5%D0%86%D0%A5_%D0%BD%D0%B0_%D0%BF%D0%BE%D1%87%D0%B0%D1%82%D0%BA%D1%83_%D0%A5%D0%A5_%D1%81%D1%82_%D0%A1%D1%85%D1%96%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%B2%D1%96%D1%82_2018_2_%D0%A1_50_62).
