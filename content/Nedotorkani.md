@@ -16,8 +16,8 @@ categories:
 
 Нижче деякі фільми, книги та статті, що розкривають тему глибше, якщо комусь також стало цікаво.
 
-<img src="/public/images/karma.png" alt="Rligius man talks about Karma" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
-<img src="/public/images/toilets.png" alt="Girls talks about toilets" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
+<img src="/content/images/karma.png" alt="Rligius man talks about Karma" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
+<img src="/content/images/toilets.png" alt="Girls talks about toilets" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
 
 ## Посилання
 
