@@ -4,6 +4,7 @@ date: 2025-05-25
 draft: "false"
 tags:
   - Culture
+  - Inequality
 categories:
   - Українською
 ---
@@ -15,8 +16,8 @@ categories:
 
 Нижче деякі фільми, книги та статті, що розкривають тему глибше, якщо комусь також стало цікаво.
 
-![[images/karma.png]]
-![[images/toilets.png]]
+<img src="/images/karma.png" alt="Rligius man talks about Karma" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
+<img src="/images/toilets.png" alt="Girls talks about toilets" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
 
 ## Посилання
 
