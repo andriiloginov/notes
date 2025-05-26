@@ -1,7 +1,7 @@
 ---
 title: Design courses
 date: 2025-05-04
-draft: "false"
+draft: "true"
 tags:
   - Courses
   - Design

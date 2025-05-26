@@ -7,18 +7,10 @@ If you found these gems useful, well… yay for us both!
 ## Categories
 
 ### 🎨 Design
-- [[AI tools]] - AI-powered tools for design and development
-- [[Design tools]] - Animation, prototyping, mockups, 3D, and digital painting tools
-- [[Color and textures]] - Color management, textures, and inspiration
-- [[Typography]] - Typefaces, font foundries, and typography tools
-
-
-### 📚 Learning
-- [[Design books]] - Must-read design books
-- [[Design courses]] - Learning resources
+- [[Resources]] —  tools, courses, ai, books, articles, inspiration, etc.
 
 ### 🇺🇦 Українською
-- [[Nedotorkani]] — про кастову систему в Індії та дискримінацію дилітів
+- [[Nedotorkani]] — про кастову систему в Індії та дискримінацію недоторканих.
 
 
 ## About Me
