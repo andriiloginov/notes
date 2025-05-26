@@ -4,10 +4,12 @@ title: Andrii Loginov Garden
 # Greetings, traveler 🗿
 
 If you found these gems useful, well… yay for us both!
-## Categories
+Привіт! Тут я пишу в перемішку українською та англійською на різні теми, здебільшого про дизайн, політику, ігри та взаємодію людей.
+
+## Table of Contents
 
 ### 🎨 Design
-- [[Resources]] —  tools, courses, ai, books, articles, inspiration, etc.
+- [[Resources]] —  desig-related tools, courses, lm's, books, articles and inspiration.
 
 ### 🇺🇦 Українською
 - [[Nedotorkani]] — про кастову систему в Індії та дискримінацію недоторканих.
