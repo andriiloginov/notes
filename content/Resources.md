@@ -6,9 +6,11 @@ tags:
   - Design
   - Resources
   - Learning
+  - Books
+  - Typography
   - Tools
+  - AI
 categories:
-  - Resources
   - Design
 ---
 
