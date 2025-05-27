@@ -106,6 +106,7 @@ A collection of modern design tools.
 - [Relume.io](https://www.relume.io/) — Websites designed & built with AI. Sitemaps, Wireframes and Styleguides.
 - [Trae](https://www.trae.ai/) — Trae IDE integrates seamlessly into your workflow, collaborating with you to maximize performance and efficiency.
 - [Zencoder](https://zencoder.ai/) — The most integrated, customizable, and intuitive coding agent.
+- [DaisyUI](https://daisyui.com/) — Tailwind CSS component library that adds a set of accessible and customizable UI components.
 
 ## Motion
 - [Phase](https://www.phase.com/) — Simple Animation For Product Designers. Easy to Learn - Lottie Animation & Micro-Interactions.
