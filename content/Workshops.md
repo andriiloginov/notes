@@ -46,5 +46,5 @@ categories:
 # Поговоримо?
 
 andrii.loginov@gmail.com
-linkedin.com/in/andriiloginov
-instagram.com/andriiloginov
+[linkedin.com/in/andriiloginov](https://www.linkedin.com/in/andriiloginov/)
+[instagram.com/andriiloginov](https://www.instagram.com/andriiloginov/)
