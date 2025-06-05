@@ -13,6 +13,8 @@ If you found these gems useful, well… yay for us both!
 
 ### 🇺🇦 Українською
 - [[Nedotorkani]] — про кастову систему в Індії та дискримінацію недоторканих.
+- [[Workshops]] — про мій досвід викладання дизайну та творчі воркшопи.
+- [[Ukrainian-to-bureaucratic]] - 
 
 
 ## About Me
