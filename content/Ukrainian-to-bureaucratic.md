@@ -6,6 +6,8 @@ tags:
   - Design
   - AI
   - Python
+  - Dev
+  - CivicTech
 categories:
   - Українською
 ---
