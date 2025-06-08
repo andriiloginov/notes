@@ -157,6 +157,7 @@ A curated collection of my favorite typefaces, font foundries, and typography to
 - [The League of Moveable Type](https://www.theleagueofmoveabletype.com/) — pioneering open-source font community.
 - [Klim Type Foundry](https://klim.co.nz/) — Klim Type Foundry (Klim) was founded by Kris Sowersby in 2005 and is based in Te Whanganui-a-Tara/Wellington, Aotearoa/New Zealand.
 - [Featured Type](https://www.featuredtype.com/) — A curated showcase of exceptional typefaces, both classic and contemporary.
+- [Grid Type](https://www.grid-type.com/) — An experimental type tool. You can generate different types of grids with it, draw your letters within these grids and download them as a font file.
 
 ## Etcetera
 
