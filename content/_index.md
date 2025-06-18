@@ -1,29 +1,26 @@
 ---
-title: Andrii Loginov Garden
+title: Мої нотатки
 ---
-# Greetings, traveler 🗿
+# Вітання 🗿
 
-If you found these gems useful, well… yay for us both!
-Привіт! Тут я пишу в перемішку українською та англійською на різні теми, здебільшого про дизайн, політику, ігри та взаємодію людей.
+Мене звати Андрій, я дизайнер, розробляю civic tech продукт, викладаю воркшопи, люблю Террі Пратчетта, настільні й не тільки ігри, каву та воду з бульбашками.
 
-## Table of Contents
+Пишу в перемішку українською та англійською на різні теми, здебільшого про дизайн, політику, ігри та взаємодію людей.
+
+<img src="images/andrii.jpg" alt="Andrii Loginov" width="200" style="border-radius: 8px; margin-bottom: 1em;" />
+
+## Категорії 
+Table of Contents
 
 ### 🎨 Design
-- [[Resources]] —  desig-related tools, courses, lm's, books, articles and inspiration.
+- [[Resources]] —  design-related tools, courses, lm's, books, articles and inspiration.
 
 ### 🇺🇦 Українською
-- [[Nedotorkani]] — про кастову систему в Індії та дискримінацію недоторканих.
-- [[Workshops]] — про мій досвід викладання дизайну та творчі воркшопи.
+- [[Nedotorkani]] — про кастову систему в Індії та дискримінацію недоторканих;
+- [[Workshops]] — про мій досвід викладання та творчі воркшопи;
 - [[Ukrainian-to-bureaucratic]] - про те, як я створив бота-перекладача з української на бюрократичну.
 
+## Контакти
 
-## About Me
-
-<img src="images/andrii.jpg" alt="Andrii Loginov" width="400" style="border-radius: 8px; margin-bottom: 1em;" />
-
-Hello, my name is Andrii. 🖖 I'm a designer from Kyiv, Ukraine.
-I'm interested in design, politics, history, art, games, and stuff like that. I love learning new things, TTRPG, Terry Pratchett and sparkling water.
-
-## Connect
-- Portfolio: [github.io/portfolio](https://andriiloginov.github.io/portfolio/)
-- LinkedIn: [linkedin.com/in/andriiloginov](https://www.linkedin.com/in/andriiloginov/) 
+- Портфоліо: [github.io/portfolio](https://andriiloginov.github.io/portfolio/)
+- Лінкедин: [linkedin.com/in/andriiloginov](https://www.linkedin.com/in/andriiloginov/) 
