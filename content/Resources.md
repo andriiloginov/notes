@@ -106,7 +106,16 @@ A collection of modern design tools.
 - [Relume.io](https://www.relume.io/) — Websites designed & built with AI. Sitemaps, Wireframes and Styleguides.
 - [Trae](https://www.trae.ai/) — Trae IDE integrates seamlessly into your workflow, collaborating with you to maximize performance and efficiency.
 - [Zencoder](https://zencoder.ai/) — The most integrated, customizable, and intuitive coding agent.
+- [Excalidraw](https://excalidraw.com/) — A virtual whiteboard for sketching hand-drawn like diagrams.
+- [Penpot](https://penpot.app/) — An open-source design and prototyping platform.
+- [Graphite](https://graphite.rs/) — A 2D vector graphics editor.
+
+
+## HTML/CSS
+- [Layout Generator](https://layout.bradwoods.io/) — A tool for generating CSS layouts.
 - [DaisyUI](https://daisyui.com/) — Tailwind CSS component library that adds a set of accessible and customizable UI components.
+- [ChartDB](https://chartdb.io/) — A tool for creating charts and visualizations.
+
 
 ## Motion
 - [Phase](https://www.phase.com/) — Simple Animation For Product Designers. Easy to Learn - Lottie Animation & Micro-Interactions.
@@ -132,6 +141,7 @@ A collection of modern design tools.
 - [Diana Lu](https://diana.lu/) — Diana Lu is an interaction designer based in LA, this is an exhibition of her works :DDD
 - [Wang Zhihong](https://wangzhihong.com/) — WANG ZHIHONG was born in Taipei in 1975. A graphic designer and a member of AGI. He is committed to incorporating typography into his design projects across the cultural and commercial sectors.
 - [Wiby.me](https://wiby.me/) — Search engine is building a web of pages as it was in the earlier days of the internet. In addition, Wiby helps vintage computers to continue browsing the web, as pages indexed are more suitable for their performance.
+- [Anthony Hobday](https://anthonyhobday.com/) — Design resources and tips.
 
 
 # Typography
@@ -145,6 +155,8 @@ A curated collection of my favorite typefaces, font foundries, and typography to
 - [Departure Mono](https://www.departuremono.com/) — a contemporary monospaced font with a lo-fi vibe.
 - [Kyiv Metro Fonts](https://kyivtypefoundry.com/projects/kyiv-metro-fonts?id=0) — Kyiv metro font collection, free for Ukrainians, donation-based for others.
 - [Geist Sans](https://vercel.com/font#get) — A typeface specifically designed for developers and designers. We began by creating a monospace version that prioritized readability and seamlessly integrated into coding environments.
+- [National Park](https://fonts.google.com/specimen/National+Park) — A typeface inspired by the National Park Service signs.
+
 
 ## Type Foundries & Libraries
 
@@ -163,6 +175,8 @@ A curated collection of my favorite typefaces, font foundries, and typography to
 
 - [px to rem Converter](https://nekocalc.com/px-to-rem-converter) — handy tool for converting px to rem.
 - [Atypography Manual](https://www.atypography.com/manual) — Atypography is an art movement that graphically represents traditional writing systems in an unconventional way, creating an authentic design that remains readable while concealing text signs at first glance.
+- [Font Scale Generator](https://fontscale.joelfisher.me/) — A tool for generating modular scales for typography.
+
 
 # Colors & Textures
 There are loads of cool tools for designers on the web, and we all have our go-to tools for working with color and textures. Here are my favs.
@@ -219,6 +233,7 @@ AI will not replace designers; they will be replaced by those who use AI. Here's
 - [Galileo AI](https://www.usegalileo.ai/explore) — Generate interface designs at lightning speed
 - [Taskade](https://www.taskade.com/templates/design) — AI Design Templates
 - [Design Tokens Name Generator](https://namedesigntokens.guide/) — Create consistent and scalable design token naming conventions for your design system
+- [Julius AI](https://julius.ai/) — An AI tool for generating design ideas with Data.
 
 ## Content & Copy
 - [Riter](https://riter.app/) — Generate your next UX Copy, Headings using chatGPT
