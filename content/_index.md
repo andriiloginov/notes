@@ -24,7 +24,7 @@ title: Мої нотатки
 - [[Workshops]] — про мій досвід викладання та творчі воркшопи;
 - [[Ukrainian-to-bureaucratic]] - про те, як я створив бота-перекладача з української на бюрократичну.
 
-
-## Контакти
-- Портфоліо: [github.io/portfolio](https://andriiloginov.github.io/portfolio/)
-- Лінкедин: [linkedin.com/in/andriiloginov](https://www.linkedin.com/in/andriiloginov/) 
+## Посилання
+- [github.io/portfolio](https://andriiloginov.github.io/portfolio/)
+- [linkedin.com/in/andriiloginov](https://www.linkedin.com/in/andriiloginov/) 
+- [mastodon.social/@andriiloginov](https://mastodon.social/@andriiloginov)
