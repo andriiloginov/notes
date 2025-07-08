@@ -143,6 +143,7 @@ A collection of modern design tools.
 - [Wiby.me](https://wiby.me/) — Search engine is building a web of pages as it was in the earlier days of the internet. In addition, Wiby helps vintage computers to continue browsing the web, as pages indexed are more suitable for their performance.
 - [Anthony Hobday](https://anthonyhobday.com/) — Design resources and tips.
 - [Think of Things](https://think-of-things.com/) — [Add a brief description of what this link offers or represents].
+- [Maggie Appleton's Sketchbook](https://maggieappleton.com/lm-sketchbook/) — [Add a brief description of what this link offers or represents].
 
 
 # Typography
