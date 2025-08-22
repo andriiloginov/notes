@@ -6,11 +6,17 @@
       <description>Last 10 notes on Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Гадзиня</title>
+    <link>https:///notes/B011</link>
+    <guid>https:///notes/B011</guid>
+    <description>Газдиня — це західноукраїнський діалект, що означає господарка або господиня.</description>
+    <pubDate>Fri, 22 Aug 2025 10:53:58 GMT</pubDate>
+  </item><item>
     <title>Мої нотатки</title>
     <link>https:///notes/</link>
     <guid>https:///notes/</guid>
     <description>Вітання 🗿 Мене звати Андрій, я дизайнер, розробляю civic tech продукт, проводжу творчі воркшопи, люблю Террі Пратчетта, настільні й не тільки ігри, каву та воду з бульбашками.</description>
-    <pubDate>Tue, 05 Aug 2025 20:59:04 GMT</pubDate>
+    <pubDate>Fri, 22 Aug 2025 10:53:58 GMT</pubDate>
   </item><item>
     <title>Ложка, що нагадує випити ліки</title>
     <link>https:///notes/B001</link>
@@ -59,12 +65,6 @@
     <guid>https:///notes/B004</guid>
     <description>На основі моделі, запропонованої Джоном Кінгдоном у 1984 — політичне вікно можливостей (англ.</description>
     <pubDate>Thu, 10 Jul 2025 16:49:03 GMT</pubDate>
-  </item><item>
-    <title>Перекладач з української на бюрократичну</title>
-    <link>https:///notes/B005</link>
-    <guid>https:///notes/B005</guid>
-    <description>Допомагає оформити звернення майже в будь-яку установу і робить те з дуже серйозним виразом обличчя та усіма згідно-з-відповідно-до.</description>
-    <pubDate>Wed, 09 Jul 2025 15:25:06 GMT</pubDate>
   </item>
     </channel>
   </rss>
