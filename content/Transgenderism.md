@@ -8,6 +8,8 @@ categories:
 ---
 Вчора в дискусії мій близький друг підтримав тезу «трансгендерні жінки ≠ жінки», мовляв лише біологічні жінки — це жінки. Я був щиро здивований такій трансфобній позиції, тому опишу деякі з його тез й спробую знайти їм підтвердження або спростую.
 
+![[Transgender Biology and Myths.mp4]]
+
 # 1. Тільки біологічні жінки можуть називатись жінками
 
 Гендерна ідентичність — валідний та біологічно обґрунтований аспект людини. Хоча гендер відображає психосоціальні ролі та самовідчуття, біологічна стать людини значно складніша, ніж просто хромосоми. Сучасна біологія та медицина визнають стать багатовимірним явищем, яке включає:
@@ -109,5 +111,5 @@ categories:
 
 # Посилання
 
-[Public Notebook](https://notebooklm.google.com/notebook/e70276ff-59a1-4ad4-9cc8-7dcd7cb68000)
-[Neil deGrasse Tyson's Thoughts on Transgenderism](https://www.youtube.com/watch?v=w89etN8QqNQ)
+- [Public Notebook](https://notebooklm.google.com/notebook/e70276ff-59a1-4ad4-9cc8-7dcd7cb68000)
+- [Neil deGrasse Tyson's Thoughts on Transgenderism](https://www.youtube.com/watch?v=w89etN8QqNQ)
