@@ -10,7 +10,7 @@ title: Мої нотатки
 <img src="images/andrii.jpg" alt="Andrii Loginov" width="200" style="border-radius: 8px; margin-bottom: 1em;" />
 
 ## Ідеї
-1 ідея на день, використовуючи лише каламбур.
+1 ідея — 1 каламбур.
 
 - [[B001]] — Ложка, що нагадує випити ліки;
 - [[B002]] — Сад, що вирощує прийняття;
@@ -22,7 +22,8 @@ title: Мої нотатки
 - [[B008]] — Спікер-цвях;
 - [[B009]] — Автомобільний компакт-диск;
 - [[B010]] — Крісло плавлений сирок;
-- [[B011]] — Гадзиня.
+- [[B011]] — Ґадзиня;
+- [[B012]] — Конфетіті.
 
 ## Ресурси
 - [[Resources]] —  тека ресурсів для творчих людей, яка постійно оновлюється.
@@ -33,6 +34,5 @@ title: Мої нотатки
 - [[Transgenderism]] — аналіз діскусії з приводу визначення трансґендерна жінка.
 
 ## Посилання
-- [github.io/portfolio](https://andriiloginov.github.io/portfolio/)
 - [linkedin.com/in/andriiloginov](https://www.linkedin.com/in/andriiloginov/) 
 - [mastodon.social/@andriiloginov](https://mastodon.social/@andriiloginov)
