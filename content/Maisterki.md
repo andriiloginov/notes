@@ -8,11 +8,11 @@ tags:
 categories:
   - Українською
 ---
-# Іміджемейкінг в Україні
+# Про мій досвід майстерок
 
 Влітку 2023 року мені пощастило опинитися в дитячому таборі в Чернігові, який організував фонд ЮНІСЕФ. Мене запросили на місяць спробувати себе в ролі ментора з дизайну. Часу було небагато, тож я вирішив не вигадувати велосипед і взяв готовий модуль із дистанційної програми Каліфорнійського інституту мистецтв. Отримав на це офіційний дозвіл від Глейн Сленвуд, директорки факультету дизайну цього вишу. Втретє мені пощастило, коли я згодом отримав змогу викладати цей самий модуль у громадах по всій країні, переважно на сході та південному сході.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W02tpVJ5mHI?si=uS3WXH5H4MfOU1_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/W02tpVJ5mHI?si=uS3WXH5H4MfOU1_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 З цього досвіду народилися сотні дивовижних, уявних і по-справжньому оригінальних робіт.
 
@@ -44,4 +44,3 @@ _Фото з виставки в Українському домі в Києві
 # Створення зображень без референсів
 
 В інтернеті — мільйони зображень, ілюстрацій та картин на будь-яку тему. А ще цей сраний штучний інтелект, який намалює тобі «як Пікассо». І виникає просте питання: навіщо я знову це роблю? Якщо все вже вигадано, а ми ходимо по колу, то як із нього вийти? І чи взагалі можна? Як створювати зображення без референсів? Як перестати копіювати одне одного й нарешті знайти свій власний стиль?
-
